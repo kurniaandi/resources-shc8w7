@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kurniaandi.github.io/resources-shc8w7/sitemap.xml
